@@ -1,7 +1,6 @@
 {
     "name": "opengento/module-gdpr",
     "description": "Gdpr Compliance Module for Magento 2",
-    "version": "999.0.0",
     "keywords": [
         "php",
         "magento",
